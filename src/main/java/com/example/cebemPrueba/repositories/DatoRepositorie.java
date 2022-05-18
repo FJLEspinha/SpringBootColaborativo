@@ -7,7 +7,6 @@ import org.springframework.stereotype.Repository;
 import com.example.cebemPrueba.models.Dato;
 
 
-
 import org.springframework.data.repository.CrudRepository;
 
 @Repository
